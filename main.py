@@ -1,7 +1,7 @@
 import telebot
 import random
 from telebot import types
-bot = telebot.TeleBot('5846438225:AAEdnUlr7clXH6bIzkkNEnHkEPkDNOVWGDE')
+bot = telebot.TeleBot('')
 a = 0
 b = []
 
